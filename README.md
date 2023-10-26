@@ -38,5 +38,5 @@
 <a href="https://blog.naver.com/zhsksrjsdnr"><img src="https://img.shields.io/badge/naver-#03C75A?style=flat-square&logo=naver&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=Spring%20Boot&logoColor=black"/>
 
-<img src="https://img.shields.io/badge/naver-#03C75A?style=flat&logo=naver&logoColor=white"/>
+<img src="https://img.shields.io/badge/Naver-#03C75A?style=flat&logo=Naver&logoColor=white"/>
 </div>
