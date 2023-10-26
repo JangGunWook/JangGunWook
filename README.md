@@ -35,7 +35,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=893107&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
   
 
-<a href="https://blog.naver.com/zhsksrjsdnr"><img src="https://cdn.simpleicons.org/iscsquared"/></a>
+<a href="https://blog.naver.com/zhsksrjsdnr"><img src="https://img.shields.io/badge/Naver-03C75A?style=flat&logo=Naver&logoColor=white"/></a>
 
 <img src="https://img.shields.io/badge/Naver-#03C75A?style=flat&logo=Naver&logoColor=white"/>
 </div>
