@@ -35,7 +35,6 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=893107&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
   
 https://blog.naver.com/zhsksrjsdnr
-[![image](https://github.com/JangGunWook/JangGunWook/assets/119468128/752f824d-f055-4893-aad2-572f832a9a8f)
-](https://blog.naver.com/zhsksrjsdnr){: target="_blank"}
+[naver_blog](https://blog.naver.com/zhsksrjsdnr){: target="_blank"}
 
 </div>
