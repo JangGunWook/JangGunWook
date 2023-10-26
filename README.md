@@ -34,7 +34,8 @@
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=893107&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
   
-https://blog.naver.com/zhsksrjsdnr
-[naver_blog](https://blog.naver.com/zhsksrjsdnr){: target="_blank"}
+
+<a href="https://blog.naver.com/zhsksrjsdnr"><img src="https:#03C75A"/></a>
+
 
 </div>
